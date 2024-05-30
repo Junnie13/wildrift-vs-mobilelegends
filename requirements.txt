@@ -1,4 +1,5 @@
-pandas
-matplotlib
-numpy
-google_play_scraper
+pandas==2.2.2
+matplotlib==3.9.0
+numpy==1.26.4
+google_play_scraper==1.2.6
+jupyter==1.0.0
